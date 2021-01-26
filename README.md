@@ -1,15 +1,15 @@
 # Morck 客户端
 
-Morck 客户端是一个同时支持 sspanel、v2borad 的定制客户端。
+Morck 客户端是一款同时支持 sspanel、v2borad 的定制客户端。
 
 
 ## Features
 
 采用clash核心作为主Agent核心。
 
-支持 v2borad、sspanel及各种sspanel衍生主题。
+支持 v2borad面板、sspanel面板及各种sspanel衍生主题。
 
-采用一对多发布模式，即发布一端，所有用户通过对接码即可自行对接使用。
+即将采用一对多发布模式，即发布一端，所有用户通过对接码即可自行对接使用。
 
 
 ## Supported
@@ -37,6 +37,7 @@ Windows客户端
 
 
 ## 其他平台正在全力开发中，敬请期待...
+ios移动端、安卓移动端、MacOS平台
 
 
 # 注意
