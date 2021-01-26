@@ -40,9 +40,10 @@ Windows客户端
 ios移动端、安卓移动端、MacOS平台
 
 
-# 注意
+# Remind
 本软件本身不提供代理节点
 
+# Telegram
 
 加入我们：[Telegram群组](https://t.me/morckcs)
 
