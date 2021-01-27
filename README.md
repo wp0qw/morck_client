@@ -49,3 +49,9 @@ ios移动端、安卓移动端、MacOS平台
 加入我们：[Telegram群组](https://t.me/morckcs)
 
 加入我们：[Telegram通知频道](https://t.me/morckgroup)
+
+# Preview
+
+![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_20210126173357.png)
+![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_20210126173522.png)
+![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic20210126174562.png)
