@@ -54,4 +54,5 @@ ios移动端、安卓移动端、MacOS平台
 
 ![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_20210126173357.png)
 ![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_20210126173522.png)
-![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic20210126174562.png)
+![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_20210126174562.png)
+![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_20210127093713.png)
