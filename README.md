@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/wp0qw/morck_client/blob/main/morck.png?raw=true" alt="Morck" width="200">
-  <br>Clash<br>
+  <br>Morck<br>
 </h1>
 
 <h4 align="center">Morck 客户端是一款同时支持 sspanel、v2borad 的定制客户端。</h4>
