@@ -3,7 +3,7 @@
   <br>Morck<br>
 </h1>
 
-<h4 align="center">Morck 客户端是一款同时支持 sspanel、v2borad 的定制客户端。</h4>
+<h4 align="center">Morck是一款同时支持 sspanel、v2borad 的客户端。</h4>
 
 ## Features
 
