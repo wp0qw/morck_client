@@ -47,7 +47,7 @@ ios移动端、安卓移动端、MacOS平台
 软件本身不提供代理节点
 
 # Download
-[Releases](https://github.com/wp0qw/morck_client/releases)
+Github下载[Releases](https://github.com/wp0qw/morck_client/releases)
 
 # Telegram
 
