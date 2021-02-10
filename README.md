@@ -46,6 +46,9 @@ ios移动端、安卓移动端、MacOS平台
 # Remind
 软件本身不提供代理节点
 
+# Download
+[Releases](https://github.com/wp0qw/morck_client/releases)
+
 # Telegram
 
 加入我们：[Telegram群组](https://t.me/morckcs)
