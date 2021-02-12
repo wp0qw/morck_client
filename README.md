@@ -23,7 +23,7 @@
 
 
 ## Function
-Windows客户端
+Windows、Mac客户端
 |功能              |是否支持              |
 |------------------|------------------|
 |登录                 |√ 
@@ -37,14 +37,6 @@ Windows客户端
 |版本更新                 |√
 |智能代理                 |√
 |全局代理(tun)                 |开发中
-
-
-## 其他平台正在全力开发中，敬请期待...
-ios移动端、安卓移动端、MacOS平台
-
-
-# Remind
-软件本身不提供代理节点
 
 # Download
 Github下载[Releases](https://github.com/wp0qw/morck_client/releases)
