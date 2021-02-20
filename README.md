@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/wp0qw/morck_client/blob/main/morck.png?raw=true" alt="Morck" width="200">
+  <img src="https://github.com/morckclient/morck_client/blob/main/morck.png?raw=true" alt="Morck" width="200">
   <br>Morck<br>
 </h1>
 
@@ -47,7 +47,7 @@ Github下载[Releases](https://github.com/wp0qw/morck_client/releases)
 
 # Preview
 
-![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_202102101.PNG)
-![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_202102102.PNG)
-![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_202102103.PNG)
-![Alt text](https://github.com/wp0qw/morck_client/blob/main/pic_202102104.PNG)
+![Alt text](https://github.com/morckclient/morck_client/blob/main/pic_202102101.PNG)
+![Alt text](https://github.com/morckclient/morck_client/blob/main/pic_202102102.PNG)
+![Alt text](https://github.com/morckclient/morck_client/blob/main/pic_202102103.PNG)
+![Alt text](https://github.com/morckclient/morck_client/blob/main/pic_202102104.PNG)
