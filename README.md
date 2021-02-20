@@ -28,12 +28,13 @@ Windows、Mac客户端
 |显示到期时间                 |√
 |显示流量情况                 |√
 |套餐续费(跳转)                 |√
+|官网入口                 |√
 |节点刷新                 |√
 |国旗(252个国家/地区)                 |√
 |节点延迟(tcping)                 |√
 |版本更新                 |√
 |智能代理                 |√
-|全局代理(tun)                 |开发中
+|全局代理(tun)                 |√
 
 # Download
 Github下载[Releases](https://github.com/wp0qw/morck_client/releases)
