@@ -5,7 +5,7 @@
 
 <h4 align="center">Morck是一款同时支持 sspanel、v2borad 的客户端。</h4>
 
-## Features
+## Introduction
 
 采用clash核心作为主Agent核心。
 
@@ -20,7 +20,7 @@
 |v2board	   |√                 |√                 |√                 |暂不支持                 |
 
 ## Function
-Windows、Mac客户端
+
 |功能              |是否支持              |
 |------------------|------------------|
 |登录                 |√ 
